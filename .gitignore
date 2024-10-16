@@ -31,6 +31,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+*.pickle
 
 # Installer logs
 pip-log.txt
@@ -130,3 +131,5 @@ out/
 # Windows
 Thumbs.db
 ehthumbs.db
+
+# mlp_weights.pickle
